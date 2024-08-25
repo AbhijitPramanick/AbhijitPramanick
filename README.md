@@ -1,9 +1,9 @@
 👋 Hi, I'm Abhijit Pramanick
 
-👨‍💻 Aspiring Web Developer | 🧑‍🎓 M.Tech in Power & Energy | 🚀 Seeking Opportunities
+👨‍💻 Aspiring Data analyst | 🧑‍🎓 M.Tech in Power & Energy | 🚀 Seeking Opportunities
 
-🌐 Web Development Enthusiast | 💡 Problem Solver | 📊 Data Enthusiast
-🌟 Skills: HTML/CSS/JS, React JS, C/C++, SQL, Machine Learning, MATLAB
+📊 Data Enthusiast | 🌐 Web Development Enthusiast | 💡 Problem Solver
+🌟 Skills: Power BI, Excel, Python, SQL, HTML/CSS/JS, React JS, C/C++, Machine Learning, MATLAB
 
 📚 Lifelong Learner | 🏅 Academic Excellence | 🤖 GATE Qualifier
 
