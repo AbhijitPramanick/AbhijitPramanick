@@ -1,12 +1,15 @@
-👋 Hi, I'm Abhijit Pramanick
+# 👋 Hi, I'm Abhijit Pramanick
 
-👨‍💻 Aspiring Data analyst | 🧑‍🎓 M.Tech in Power & Energy | 🚀 Seeking Opportunities
+🚀 **AI Engineer | Machine Learning Engineer | Data Scientist**
 
-📊 Data Enthusiast | 🌐 Web Development Enthusiast | 💡 Problem Solver
-🌟 Skills: Power BI, Excel, Python, SQL, HTML/CSS/JS, React JS, C/C++, Machine Learning, MATLAB
+I'm passionate about building AI-powered applications using **LLMs, Machine Learning, RAG, and Data Analytics** to solve real-world problems. With **2+ years of industry experience**, I develop intelligent automation, data-driven solutions, and scalable AI applications.
 
-📚 Lifelong Learner | 🏅 Academic Excellence | 🤖 GATE Qualifier
+### 💻 Tech Stack
 
-📧 Contact: amanik1995@gmail.com
+**Python • SQL • PySpark • LangChain • OpenAI API • Hugging Face • Ollama • Scikit-learn • FAISS • ChromaDB • Power BI • Tableau • Git**
 
-🌱 Currently open to exciting opportunities in web development and beyond. Let's connect!
+🌱 Currently exploring **Agentic AI, LangGraph, MLOps, Docker, Kubernetes, Azure & AWS**
+
+📫 **Email:** [amanik1995@gmail.com](mailto:amanik1995@gmail.com)
+
+⭐ Always open to collaborating on AI, ML, Data Science, and Open Source projects.
